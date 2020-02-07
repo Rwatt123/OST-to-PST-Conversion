@@ -1,0 +1,21 @@
+OST file basically stores a copy of your Exchange data for Offline use. As with any other database the OST data is also at risk of 
+corruption from various means be it a malicious software attack, hardware related issues, sudden outlook termination or file system 
+corruption. It is therefore very important to devise a strategy to help you recover the Exchange mailbox data within the OST file 
+reliably.
+
+One strategy is to Convert OST files to PST. PST files, unlike OST files, can be imported into any version of the outlook and its 
+contents viewed. PST files are therefore ideal for scenarios such as this where OST file data is to be recovered.
+
+The best tool to perform OST to PST Conversions with is the EdbMails OST to PST Converter tool. It is an all in one OST Recovery tool 
+that has extensive filtering options, recovers all data along with email properties, allows to preview all OST contents before export and 
+provides a simple to use interface that anybody can easily understand work with.
+
+Steps to Convert OST to PST using EdbMails
+
+The OST to PST Conversion using EdbMails is as easy as making a few clicks. Read below to know how to do it:
+
+1. Launch EdbMails application and select Export OST to PST method
+2. Browse for the OST file to proceed with the OST to PST Export operation. Click the ‘Continue’
+3. Select the checkbox next to Mailboxes / folders in the application tree-view
+
+To know more: https://www.edbmails.com/pages/ost-to-pst-converter.html
